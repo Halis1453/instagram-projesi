@@ -5,4 +5,4 @@ projem
 
 ![Screenshot_1](https://github.com/Halis1453/instagram-projesi/assets/152072065/0d1b353f-1306-4ddc-b828-959d5019d08d)
 
-![Uploading Screenshot_2.png…]()
+![Screenshot_2](https://github.com/Halis1453/instagram-projesi/assets/152072065/a30e2a36-365e-4205-b101-e313eb33af43)
